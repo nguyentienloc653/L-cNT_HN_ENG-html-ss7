@@ -1,0 +1,28 @@
+body{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(250, 43%, 3%);
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+.head{
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    font-weight: bold;
+    
+}
+
+.p1{
+    font-weight: bold; 
+    color: #11143a;     
+    font-size: 16px; 
+
+}
+
+.p2{
+    color: hsl(250, 43%, 3%);
+}
+
